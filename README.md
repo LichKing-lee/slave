@@ -1,2 +1,2 @@
 # calculator
-기술교육 - NHN GitHub Seminar
+기술교육 - NHN GitHub Education
